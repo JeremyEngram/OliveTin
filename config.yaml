@@ -14,6 +14,69 @@ actions:
 - title: Run backup script
   shell: /opt/backupScript.sh
   icon: backup
+  
+  # Actions (buttons) to show up on the WebUI:
+actions:   
+  # This will run a simple script that you create.
+- title: Run backup script
+  shell: /opt/backupScript.sh
+  icon: backup
+  
+  # Actions (buttons) to show up on the WebUI:
+actions:   
+  # This will run a simple script that you create.
+- title: Run backup script
+  shell: /opt/backupScript.sh
+  icon: backup
+  
+  # Actions (buttons) to show up on the WebUI:
+actions:   
+  # This will run a simple script that you create.
+- title: Run backup script
+  shell: /opt/backupScript.sh
+  icon: backup
+  
+  # Actions (buttons) to show up on the WebUI:
+actions:   
+  # This will run a simple script that you create.
+- title: Run backup script
+  shell: /opt/backupScript.sh
+  icon: backup
+  
+  # Actions (buttons) to show up on the WebUI:
+actions:   
+  # This will run a simple script that you create.
+- title: Run backup script
+  shell: /opt/backupScript.sh
+  icon: backup
+  
+  # Actions (buttons) to show up on the WebUI:
+actions:   
+  # This will run a simple script that you create.
+- title: Run backup script
+  shell: /opt/backupScript.sh
+  icon: backup
+  
+  # Actions (buttons) to show up on the WebUI:
+actions:   
+  # This will run a simple script that you create.
+- title: Run backup script
+  shell: /opt/backupScript.sh
+  icon: backup
+  
+  # Actions (buttons) to show up on the WebUI:
+actions:   
+  # This will run a simple script that you create.
+- title: Run backup script
+  shell: /opt/backupScript.sh
+  icon: backup
+  
+  # Actions (buttons) to show up on the WebUI:
+actions:   
+  # This will run a simple script that you create.
+- title: Run backup script
+  shell: /opt/backupScript.sh
+  icon: backup
 
   # This will send 1 ping (-c 1)
   # Docs: https://docs.olivetin.app/action-ping.html
